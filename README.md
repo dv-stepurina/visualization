@@ -59,7 +59,7 @@ This repository contains a collection of data analysis and visualization project
 4. View pre-rendered visualizations in `/images/`
 
 ## Key Insights
-- Identified peak activity hours (14:00-17:00 on weekdays)
+- Identified peak activity hours (15:00-21:00 on weekdays)
 - Discovered significant differences in weekend vs weekday patterns
 - Visualized non-linear relationships between metrics
 - Created production-ready interactive dashboards
