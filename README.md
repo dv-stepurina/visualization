@@ -37,31 +37,8 @@ This repository contains a collection of data analysis and visualization project
   - Histograms and boxplots
   - Scatterplot matrices
   - Animated visualizations
-- **Analysis Techniques**:
-  - Time-series decomposition
-  - Correlation analysis
-  - Outlier detection
-  - Cohort analysis
-
-## Repository Structure
-/notebooks/
-00_line_chart.ipynb
-01_line_chart_styles.ipynb
-02_bar_chart.ipynb
-...
-/datasets/ - Contains all datasets used
-/misc/images/ - Output visualizations
 
 ## How to Use
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Run Jupyter notebooks: `jupyter notebook`
-4. View pre-rendered visualizations in `/images/`
-
-## Key Insights
-- Identified peak activity hours (15:00-21:00 on weekdays)
-- Discovered significant differences in weekend vs weekday patterns
-- Visualized non-linear relationships between metrics
-- Created production-ready interactive dashboards
-
-This work demonstrates strong competencies in data analysis and visualization for behavioral analytics applications.
+3. Run Jupyter notebooks in order (00-09): `jupyter notebook`
